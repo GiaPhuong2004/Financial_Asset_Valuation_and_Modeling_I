@@ -46,8 +46,8 @@ I was fully responsible for **data visualization**, including:
 - `sector_index_and_return_analysis.Rmd`: R file with code, analysis, and visualizations
 - `sector_index_and_return_analysis.html`: Rendered HTML output
 - `data/`
-  - `closing_price.csv`: Daily closing prices for 45 stocks across 3 sectors
-  - `market_cap.csv`: Market capitalization data for the same stocks and period
+  - `closing_price.xlsx`: Daily closing prices for 45 stocks across 3 sectors
+  - `market_cap.xlsx`: Market capitalization data for the same stocks and period
 - `slide/`
   - `group6_presentation.pdf`: Slide deck summarizing the methodology and results
 
