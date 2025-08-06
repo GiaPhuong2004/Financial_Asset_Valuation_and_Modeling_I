@@ -57,7 +57,7 @@ I was fully responsible for **data visualization**, including:
 
 - **R**
 - `ggplot2` for visualization
-- `dplyr`, `tidyr` for data processing
+- Base R for data processing
 
 ---
 
