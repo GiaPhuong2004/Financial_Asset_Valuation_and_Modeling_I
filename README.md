@@ -55,7 +55,7 @@ I was fully responsible for **data visualization**, including:
 
 ## 🛠️ Tools
 
-- **R**
+- **R programming language**
 - `ggplot2` for visualization
 - Base R for data processing
 
